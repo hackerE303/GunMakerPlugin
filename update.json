@@ -1,0 +1,8 @@
+{
+  "gun_maker_plugin": {
+    "latest": "1.0.1",
+    "changes": [
+      "(1.0.1) Added compatibility with Fabric and NeoForge"
+    ]
+  }
+}
