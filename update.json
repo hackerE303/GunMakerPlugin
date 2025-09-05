@@ -1,9 +1,9 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.1.0",
+    "latest": "1.3.1",
     "changes": [
-      "(1.1.0) Extended compatibility",
-      "(1.1.0) Fixed broken procedures"
+      "Extended compatibility",
+      "Fixed broken procedures"
     ]
   }
 }
