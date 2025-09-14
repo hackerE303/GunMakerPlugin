@@ -1,9 +1,12 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.3.2",
+    "latest": "1.4.0",
     "changes": [
       "Fixed minor bugs",
-      "Planning to add more content",
+      "Added 'Gun definition' event",
+      "Added 'No swing animation' event",
+      "Added gun definition procedures",
+      "Added upgrade procedures",
       "If something does not work, please, let me know ;)"
     ]
   }
