@@ -1,8 +1,9 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.4.1",
+    "latest": "1.4.2",
     "changes": [
-      "Fixed minor bugs",
+      "ALPHA VERSION",
+      "WARNING: for now only forge 1.20.1",
       "If something does not work, please, let me know ;)"
     ]
   }
