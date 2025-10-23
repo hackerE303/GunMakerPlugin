@@ -2,7 +2,7 @@
   "gun_maker_plugin": {
     "latest": "1.4.3",
     "changes": [
-      "WARNING: absolutly contains bugs, but now compatible with all MCreator versions",
+      "WARNING: absolutly contains bugs, but now is compatible with all MCreator versions",
       "If something does not work, please, let me know ;)"
     ]
   }
