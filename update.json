@@ -1,9 +1,8 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.4.2",
+    "latest": "1.4.3",
     "changes": [
-      "ALPHA VERSION",
-      "WARNING: for now only forge 1.20.1",
+      "WARNING: absolutly contains bugs, but now compatible with all MCreator versions",
       "If something does not work, please, let me know ;)"
     ]
   }
