@@ -1,8 +1,11 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.4.4",
+    "latest": "1.5.0",
     "changes": [
-      "Fixed NeoForge 1.21.4 broken procedures",
+      "Fixed broken global event",
+      "Added support for MCreator 2025.3",
+      "Added two new procedures",
+      "Improved some procedures",
       "If something does not work, please, let me know ;)"
     ]
   }
