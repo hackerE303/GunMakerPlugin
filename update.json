@@ -1,11 +1,12 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.5.0",
+    "latest": "1.5.1",
     "changes": [
-      "Fixed broken global event",
-      "Added support for MCreator 2025.3",
-      "Added two new procedures",
-      "Improved some procedures",
+      "[1.5.1] Added new procedure",
+      "[1.5.0] Fixed broken global event",
+      "[1.5.0] Added support for MCreator 2025.3",
+      "[1.5.0] Added two new procedures",
+      "[1.5.0] Improved some procedures",
       "If something does not work, please, let me know ;)"
     ]
   }
