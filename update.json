@@ -2,9 +2,9 @@
   "gun_maker_plugin": {
     "latest": "1.5.2",
     "changes": [
+      "[1.6.0] Added new AI goals",
       "[1.5.2] Fixed minor bugs",
       "[1.5.2] Improved the gun procedures toolbox",
-      "[1.5.1] Added new procedure",
       "If something does not work, please, let me know ;)"
     ]
   }
