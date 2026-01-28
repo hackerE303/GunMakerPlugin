@@ -1,9 +1,9 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.8.0",
+    "latest": "1.8.1",
     "changes": [
+      "[1.8.1] Fixed minor bugs",
       "[1.8.0] Added one procedure, fixed some bugs",
-      "[1.7.0] Added three procedures",
       "If something does not work, please, let me know ;)"
     ]
   }
