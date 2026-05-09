@@ -1,10 +1,11 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.9.3",
+    "latest": "1.9.4",
     "changes": [
-      "- Fixed minor bugs & changed some procedures",
-      "- Only Forge & Fabric 1.20.1",
-      "If something does not work, please, let me know ;)"
+      "- Fixed lot of bugs & improved procedures",
+      "- Forge, NeoForge, Fabric 1.20.1, NeoForge 1.21.1",
+      "- Should even work with NeoForge 1.20.4 & 1.20.6",
+      "If something does not work, please, let us know on Discord"
     ]
   }
 }
