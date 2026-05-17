@@ -1,10 +1,10 @@
 {
   "gun_maker_plugin": {
-    "latest": "1.9.4",
+    "latest": "1.9.5",
     "changes": [
       "- Fixed lot of bugs & improved procedures",
       "- Forge, NeoForge, Fabric 1.20.1, NeoForge 1.21.1",
-      "- Should also work with NeoForge 1.20.4 & 1.20.6",
+      "- Fixed Gun Maker Setup not working on MCreator 2025+",
       "If something does not work, please, let us know on Discord"
     ]
   }
